@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 SSID = 'AC1d8454e1b91eed6e8d14fa3ff9dd1e45' 
 AUTH_TOKEN = '598c3ee61f9c063eddbaec7789740f0a' 
 FROM_NUMBER = '+17626677180'
